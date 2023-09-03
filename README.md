@@ -12,6 +12,7 @@ After the apps build, enter the ip address that will appear at the top of socket
 ## 4 step:
 If the connection is established, a ScaffoldMessenger will appear saying "Connected". Then play around trying to communicate and changing the colors of socket_1 on socket_2.
 
+<<<<<<< HEAD
 ## Screenshots
 
 <img src="screenshot/s1.jpg" width="125">
@@ -19,6 +20,8 @@ If the connection is established, a ScaffoldMessenger will appear saying "Connec
 <img src="screenshot/s3.jpg" width="125">
 <img src="screenshot/s4.jpg" width="125">
 
+=======
+>>>>>>> 22c9613ae97592b7ed6bca4a4f7f7629d7540c5e
 ## Points:
 Projects based on communication between devices on a local network offer a number of advantages, including low cost, low latency, privacy, total control and flexibility to meet specific project needs. This approach can be especially useful in contexts where global connectivity is not required or where internet connectivity is limited.
 
